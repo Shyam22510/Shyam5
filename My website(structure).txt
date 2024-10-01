@@ -1,0 +1,26 @@
+Movieruls(main) - html, CSS , JS - Home page for Movieruls
+
+Movieruls(view all) - html, CSS , JS - view all page for a section of movies
+
+Movieruls(movie) - html, CSS , JS - Movie player page
+
+Movieruls(search) - html, CSS , JS - search page for Movieruls
+
+V - contains html , css , js for various view all section pages
+
+P - contains movie posters
+ 
+../../ - To include html files outside the folders
+
+
+Harrypotter/H1/movieruls(movie).html - To include html files inside the folders
+
+order for movie player links
+
+for movieruls(main) - Harrypotter/H1/movieruls(movie).html
+
+for movieruls(search) - Harrypotter/H1/movieruls(movie).html
+
+for movieruls(view all) - ../Harrypotter/H1/movieruls(movie).html
+
+ for movieruls(movie) -   ../H1/movieruls(movie).html       
